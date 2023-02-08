@@ -201,6 +201,12 @@
 
   ![alt 13_entity_type](img/13_entity_type.PNG)
   
+## Výsledek v Home Assistant
+
+  - nějak takto by mělo vypadat přidané zařízení
+  
+  ![alt 14_result](img/result.PNG)  
+
 ## Zdroje
 
 - https://github.com/make-all/tuya-local/issues/306
