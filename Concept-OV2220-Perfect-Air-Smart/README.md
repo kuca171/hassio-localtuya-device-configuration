@@ -44,9 +44,16 @@
 
 ![alt tuya iot](img/tuya_iot01.PNG)
 
+- zkopírovat device id a přepnout se do API Explorer
+
 ![alt tuya iot](img/tuya_iot02.PNG)
 
-- vrácený výsledek
+- přepnutí do API "General devices management" -> "Get device information"
+- vyplnit device ID a enter
+
+![alt tuya iot](img/tuya_iot03.PNG)
+
+- v pravé části okna by měl být podobný výsledek
 
 ```json
 {
@@ -78,4 +85,4 @@
   "tid": "0b97d8d1a7bc11ed9de742b33a3cd862"
 }
 ```
-
+- vykopírovat local_key
