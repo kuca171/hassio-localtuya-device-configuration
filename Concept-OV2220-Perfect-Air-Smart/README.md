@@ -91,3 +91,9 @@
 
   - otevřít Home Assistant -> Nastavení -> Zařízení
   - najít položku localtuya -> Nastavit
+
+  ![alt localtuya](img/1_localtuya_device.PNG)
+ 
+  - vybrat volbu add a new device
+
+  ![alt konfigurace](img/2_localtuya_configuration.PNG)
