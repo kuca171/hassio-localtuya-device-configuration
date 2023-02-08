@@ -1,7 +1,7 @@
 # Integrace Concept OV2220 Perfect Air Smart do Home Assistant přes Localtuya
 
 <p align="center">
-<img src="img/concept_dehumidifier_ov2220.PNG" alt="Zásuvková lišta Ledvance" width="20%"/>
+<img src="img/concept_dehumidifier_ov2220.PNG" alt="Odvlhčovač" width="20%"/>
 </p>
   
 ## Požadavky
@@ -18,6 +18,8 @@
 - v mobilním telefonu otevřít aplikaci Tuya Smart
 - dát volbu přidat zařízení (v levém horním rohu)
 
-  ![alt entity type](img/android01.jpg)
+<p align="center">
+<img src="img/Android01.jpg" alt="android1" width="20%"/>
+</p>
 
 ## Získání device id a local key
