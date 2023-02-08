@@ -15,6 +15,8 @@
 
 **Odeberte odvlhčovač ze všech aplikací, s kterými jste ho spárovali (například concept home)**
 
+**Pro spárování je nutné přepnout odvlhčovač do režimu párování. Odvlhčovač se do režimu párování přepne stisknutím tlačítka režimu ve vypnutém stavu -> začne blikat symbol wifi. **
+
 - v mobilním telefonu otevřít aplikaci Tuya Smart
 - dát volbu přidat zařízení (v levém horním rohu)
 
@@ -27,5 +29,13 @@
 <p align="center">
 <img src="img/android02.jpg" alt="android2" width="30%"/>
 </p>
+
+- zadejte údaje ke své wifi
+
+<p align="center">
+<img src="img/android03.jpg" alt="android3" width="30%"/>
+</p>
+
+- následně ze seznamu zařízení vyberat OV2220 a zařízení bude spárováno s Tuya
 
 ## Získání device id a local key
