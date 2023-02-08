@@ -8,5 +8,5 @@
 
   - PC s windows
   - mobilní telefon s aplikací tuya
-  - přístup do https://iot.tuya.com
+  - přístup do https://iot.tuya.com návod na vytvotvoření projektu -> https://www.home-assistant.io/integrations/tuya
   - Nainstalovaná integrace <a href="https://github.com/rospogrigio/localtuya/">localtuya</a> v Home Assistant
