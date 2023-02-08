@@ -10,4 +10,9 @@ Manuály integrace zařízení přes localtuya do home-assistant.
 </p>
   
   - Odvlhčovač vzduchu Concept OV2220 Perfect Air Smart
+  
+  <p align="center">
+<img src="Concept-OV2220-Perfect-Air-Smart/img/concept_dehumidifier_ov2220.PNG" alt="Odvlhčovač" width="20%"/>
+</p>
+  
   - Solight LED SMART WIFI žárovka, miniglobe, e14
