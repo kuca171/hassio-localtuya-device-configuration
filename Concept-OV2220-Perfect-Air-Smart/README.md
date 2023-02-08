@@ -40,7 +40,11 @@
 
 ## Získání device id a local key
 
+- přihlásit se do https://iot.tuya.com zde najít svůj projekt s odvlhčovačem, kde je device id
+
 ![alt tuya iot](img/tuya_iot01.PNG)
+
+![alt tuya iot](img/tuya_iot02.PNG)
 
 - vrácený výsledek
 
