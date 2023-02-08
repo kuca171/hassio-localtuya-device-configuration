@@ -13,6 +13,6 @@
 
 ## Spárování odvlhčovače s tuya aplikací
 
-
+**Po**
 
 ## Získání device id a local key
