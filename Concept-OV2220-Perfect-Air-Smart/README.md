@@ -19,7 +19,13 @@
 - dát volbu přidat zařízení (v levém horním rohu)
 
 <p align="center">
-<img src="img/android01.jpg" alt="android1" width="20%"/>
+<img src="img/android01.jpg" alt="android1" width="30%"/>
+</p>
+
+- v seznamu zařízení najít "Odvlhčovač Wi-fi"
+
+<p align="center">
+<img src="img/android02.jpg" alt="android2" width="30%"/>
 </p>
 
 ## Získání device id a local key
