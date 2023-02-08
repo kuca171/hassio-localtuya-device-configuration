@@ -102,6 +102,105 @@
 
   ![alt add device](img/01_select_new_device.PNG)
   
+  - nastavení zařízení: zadání názvu zařízení a local key vašeho zařízení, případně zadat ještě scan interval
+  
+  ![alt configure device](img/02_configure_device.PNG)
+  
+  ### Přidání jednotlivých entit
+  
+  - vybrat typ switch, pro power on/off
+  
+  ![alt configure device](img/03_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/04_configure_entity.PNG)
+  
+  - vybrat typ select, pro mód 
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/05_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/06_configure_entity.PNG)
+  
+  - vybrat typ number, pro cílovou vlhkost 
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/07_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/08_configure_entity.PNG)
+  
+  - vybrat typ switch, pro UV filtr  
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/09_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/10_configure_entity.PNG)
+  
+  - vybrat typ select, pro nastavení intenzity větráku
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/11_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/12_configure_entity.PNG)
+  
+  - vybrat typ binary sensor, pro stav nádrže
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/15_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/16_configure_entity.PNG)
+  
+  - vybrat typ switch, pro noční režim
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/19_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/20_configure_entity.PNG)
+  
+  - vybrat typ sensor, pro teplotu
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/21_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/22_configure_entity.PNG)
+  
+  - vybrat typ sensor, pro vlhkost
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/23_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/24_configure_entity.PNG)
+  
+  - vybrat typ binary sensor, pro rozmražování
+  - **je nutné odškrtnout volbu "Do not add any more entities"**
+  
+  ![alt configure device](img/25_entity_selection.PNG)
+  
+  - nastavit entitu
+  
+  ![alt configure device](img/26_configure_entity.PNG)
+
+  - po přídání všech entit necháme volbu zaškrtnutou "Do not add any more entities"
+
+  ![alt 13_entity_type](img/13_entity_type.PNG)
+  
 ## Zdroje
 
 - https://github.com/make-all/tuya-local/issues/306
