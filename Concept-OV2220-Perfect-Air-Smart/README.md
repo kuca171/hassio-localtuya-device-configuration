@@ -13,6 +13,6 @@
 
 ## Spárování odvlhčovače s tuya aplikací
 
-**Po**
+**Odeberte odvlhčovač ze všech aplikací, s kterými jste ho spárovali (například concept home)**
 
 ## Získání device id a local key
