@@ -97,3 +97,14 @@
   - vybrat volbu add a new device
 
   ![alt konfigurace](img/2_localtuya_configuration.PNG)
+  
+  - vybrat zařízení ov2220
+
+  ![alt add device](img/01_select_new_device.PNG)
+  
+## Zdroje
+
+- https://github.com/make-all/tuya-local/issues/306
+- https://community.home-assistant.io/t/wip-smart-dehumidifier/417301/3
+- https://github.com/make-all/tuya-local/tree/main/custom_components/tuya_local/devices
+- https://github.com/make-all/tuya-local/blob/main/custom_components/tuya_local/devices/jjpro_jpd01_dehumidifier.yaml
