@@ -39,3 +39,38 @@
 - následně ze seznamu zařízení vyberat OV2220 a zařízení bude spárováno s Tuya
 
 ## Získání device id a local key
+
+
+- vrácený výsledek
+
+```json
+{
+  "result": {
+    "active_time": 1675787210,
+    "category": "cs",
+    "category_name": "Dehumidifier",
+    "create_time": 1670774269,
+    "gateway_id": "",
+    "icon": "smart/product_icon/cs.png",
+    "id": "10017508483fda31449a",
+    "ip": "85.160.0.139",
+    "lat": "50.5883",
+    "local_key": "6a3375e249d670b0",
+    "lon": "15.1600",
+    "model": "OV2220",
+    "name": "OV2220",
+    "online": true,
+    "owner_id": "45828380",
+    "product_id": "uag0ftgtowvsxfk8",
+    "product_name": "OV2220",
+    "sub": false,
+    "time_zone": "+01:00",
+    "update_time": 1675787217,
+    "uuid": "10017508483fda31449a"
+  },
+  "success": true,
+  "t": 1675862725017,
+  "tid": "0b97d8d1a7b411ed9de742b33a3cd862"
+}
+```
+
