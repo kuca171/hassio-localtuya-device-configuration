@@ -18,7 +18,7 @@
 **Pro spárování je nutné přepnout odvlhčovač do režimu párování. Odvlhčovač se do režimu párování přepne stisknutím tlačítka režimu ve vypnutém stavu -> začne blikat symbol wifi. **
 
 - v mobilním telefonu otevřít aplikaci Tuya Smart
-- dát volbu přidat zařízení (v levém horním rohu)
+- dát volbu přidat zařízení (v pravém horním rohu)
 
 <p align="center">
 <img src="img/android01.jpg" alt="android1" width="30%"/>
@@ -40,6 +40,7 @@
 
 ## Získání device id a local key
 
+![alt tuya iot](img/tuya_iot01.PNG)
 
 - vrácený výsledek
 
