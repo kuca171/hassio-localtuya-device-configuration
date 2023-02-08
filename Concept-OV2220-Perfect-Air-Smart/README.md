@@ -86,3 +86,8 @@
 }
 ```
 - vykopírovat local_key
+
+## Přidání do Home Assistant
+
+  - otevřít Home Assistant -> Nastavení -> Zařízení
+  - najít položku localtuya -> Nastavit
