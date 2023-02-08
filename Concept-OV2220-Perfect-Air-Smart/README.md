@@ -15,4 +15,9 @@
 
 **Odeberte odvlhčovač ze všech aplikací, s kterými jste ho spárovali (například concept home)**
 
+- v mobilním telefonu otevřít aplikaci Tuya Smart
+- dát volbu přidat zařízení (v levém horním rohu)
+
+  ![alt entity type](img/android01.jpg)
+
 ## Získání device id a local key
