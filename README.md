@@ -14,3 +14,7 @@ Manuály integrace zařízení přes localtuya do home-assistant.
   <p align="center">
 <img src="Concept-OV2220-Perfect-Air-Smart/img/concept_dehumidifier_ov2220.PNG" alt="Odvlhčovač" width="20%"/>
 </p>
+
+## Má konfigurace home Assistant
+
+  - https://github.com/kuca171/home-assistant-config

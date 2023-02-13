@@ -15,7 +15,7 @@
 
 **Odeberte odvlhčovač ze všech aplikací, s kterými jste ho spárovali (například concept home)**
 
-**Pro spárování je nutné přepnout odvlhčovač do režimu párování. Odvlhčovač se do režimu párování přepne stisknutím tlačítka režimu ve vypnutém stavu -> začne blikat symbol wifi. **
+**Pro spárování je nutné přepnout odvlhčovač do režimu párování. Odvlhčovač se do režimu párování přepne stisknutím tlačítka režimu ve vypnutém stavu -> začne blikat symbol wifi.**
 
 - v mobilním telefonu otevřít aplikaci Tuya Smart
 - dát volbu přidat zařízení (v pravém horním rohu)
