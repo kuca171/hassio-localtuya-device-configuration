@@ -1,4 +1,4 @@
-# hassio-localtuya-my-device-configuration
+# hassio-localtuya-device-configuration
 Manuály integrace zařízení přes localtuya do home-assistant.
 
 ## Zařízení: 
