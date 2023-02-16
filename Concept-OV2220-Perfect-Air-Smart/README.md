@@ -6,10 +6,10 @@
   
 ## Požadavky
 
-  - PC s windows
+  - PC s přístupem na internet
   - mobilní telefon s aplikací tuya
-  - přístup do https://iot.tuya.com návod na vytvotvoření projektu -> https://www.home-assistant.io/integrations/tuya
-  - Nainstalovaná integrace <a href="https://github.com/rospogrigio/localtuya/">localtuya</a> v Home Assistant
+  - přístup do https://iot.tuya.com návod na vytvoření projektu -> https://www.home-assistant.io/integrations/tuya
+  - Nainstalovaná integrace <a href="https://github.com/rospogrigio/localtuya/">local tuya</a> v Home Assistant
 
 ## Spárování odvlhčovače s tuya aplikací
 
