@@ -1,4 +1,4 @@
-# Integrace Ledvance WiFi zásuvková lišta s USB do Home Assistant přes Localtuya
+# Integrace Ledvance WiFi zásuvkové lišty s USB do Home Assistant přes Localtuya
 
 <p align="center">
 <img src="img/gcpf359708bd62b48f1a47615f4d9787206.jpeg" alt="Zásuvková lišta Ledvance" width="50%"/>
