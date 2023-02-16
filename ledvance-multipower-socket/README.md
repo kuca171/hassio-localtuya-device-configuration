@@ -7,7 +7,7 @@
 ## Požadavky
 
   - PC s windows
-  - Nainstalovaná integrace <a href="https://github.com/rospogrigio/localtuya/">localtuya</a> v Home Assistant
+  - Nainstalovaná integrace <a href="https://github.com/rospogrigio/localtuya/">local tuya</a> v Home Assistant
 
 ## Získání device id a local key
 
