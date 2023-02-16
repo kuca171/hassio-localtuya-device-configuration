@@ -8,7 +8,7 @@
 
   - PC s přístupem na internet
   - mobilní telefon s aplikací tuya
-  - přístup do https://iot.tuya.com návod na vytvotvoření projektu -> https://www.home-assistant.io/integrations/tuya
+  - přístup do https://iot.tuya.com návod na vytvoření projektu -> https://www.home-assistant.io/integrations/tuya
   - Nainstalovaná integrace <a href="https://github.com/rospogrigio/localtuya/">local tuya</a> v Home Assistant
 
 ## Spárování žárovky s tuya aplikací
