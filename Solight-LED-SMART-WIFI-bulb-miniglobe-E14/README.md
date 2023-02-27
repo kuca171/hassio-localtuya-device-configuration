@@ -76,7 +76,7 @@
 
   ![alt konfigurace](img/02_localtuya_configuration.PNG)
   
-  - vybrat 
+  - vybrat žárovku
 
   ![alt add device](img/03_add_device.PNG)
   
